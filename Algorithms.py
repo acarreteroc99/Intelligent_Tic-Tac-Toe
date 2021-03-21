@@ -107,6 +107,18 @@ def minimax(actualBoard, player, profmax, size):
         if player == max:
            #actualBoard = maximum(L)
            return maximum(L)
+      
+# ===================================================================================
+# ===================================   MCTS   ======================================
 
+def selectionMCTS():
+    
+def expandMCTS():
 
+def simulationMCTS():
+    
+def updateMCTS():
+    
+def MCTS(actualState, player, max_it):
+    
 # =================================================================================
